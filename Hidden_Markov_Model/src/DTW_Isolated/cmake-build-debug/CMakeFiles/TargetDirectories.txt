@@ -1,0 +1,3 @@
+/home/hari/Documents/MSCourseWork/CS6690 Pattern Recognition/Assignment/4/DTW_Isolated/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hari/Documents/MSCourseWork/CS6690 Pattern Recognition/Assignment/4/DTW_Isolated/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/hari/Documents/MSCourseWork/CS6690 Pattern Recognition/Assignment/4/DTW_Isolated/cmake-build-debug/CMakeFiles/DTW_Isolated.dir

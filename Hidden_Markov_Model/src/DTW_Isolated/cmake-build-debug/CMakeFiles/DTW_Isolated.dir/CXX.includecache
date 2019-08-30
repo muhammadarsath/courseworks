@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hari/Documents/MSCourseWork/CS6690 Pattern Recognition/Assignment/4/DTW_Isolated/main.cpp
+iostream
+-
+
